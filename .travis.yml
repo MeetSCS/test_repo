@@ -20,7 +20,7 @@ env:
   #   $ gem install travis --user-install
   # and use:
   #   $ travis encrypt TRANSIFEX_PASSWORD=your-password -r owner/project
-  - secure: "XzZzWhiVWXHI+tmcdYH0rPjietxvr1nUXuCRiqnDY3fM0lq6RmtwOlpDDwYEiX+9fHAE8mDttlJ7H4J/YZ+0ugwZxeM10yuT7FwkJY9kPvBe6T59P9aD9R6mSC/da4JGVd+Th5QXDBuBGRBVdY/qBT2lagHuSzBZdKwvMMsaBtA="
+  - secure: XzZzWhiVWXHI+tmcdYH0rPjietxvr1nUXuCRiqnDY3fM0lq6RmtwOlpDDwYEiX+9fHAE8mDttlJ7H4J/YZ+0ugwZxeM10yuT7FwkJY9kPvBe6T59P9aD9R6mSC/da4JGVd+Th5QXDBuBGRBVdY/qBT2lagHuSzBZdKwvMMsaBtA=
   # Use the following lines if you need to manually change the transifex project slug or/and the transifex organization.
   # The default project slug is owner-repo_name-version (with dash in the version string).
   # The default organization is the owner of the repo.
